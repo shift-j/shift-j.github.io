@@ -9,10 +9,30 @@
     <description>Recent content in Posts on shift J</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.shiftj.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Applying a UX &amp; Technical Writing Lens to Mail-in Voting</title>
+      <link>https://www.shiftj.net/posts/20231231_mail_in_voting/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shiftj.net/posts/20231231_mail_in_voting/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Take a look at our lean breakdown of the mail-in voting experience from 2020! In this post, Jeremiah and I walked through the basics steps of finding out how to vote by mail in three states—California, Florida, and Georgia. We find out more about the shortcomings of search and how the results differ among the three. Click the post to continue reading and find our insights.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Write the Docs Portland 2020 - Wrapup</title>
